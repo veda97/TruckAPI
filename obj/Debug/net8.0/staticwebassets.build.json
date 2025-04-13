@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hhdOjtfNiFNPZ5hC9nvQAx+US8z6VHJ21s8wi4s7yMk=",
+  "Source": "TruckInfoApi",
+  "BasePath": "_content/TruckInfoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
