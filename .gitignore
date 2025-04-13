@@ -1,0 +1,21 @@
+# Ignore build output
+bin/
+obj/
+.vs/
+
+# Ignore Visual Studio user files
+*.user
+*.suo
+
+# Ignore Rider/VS Code folders
+.idea/
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore Docker ignore backup
+DockerFile~
+
+# Ignore sourcelink
+*.sourcelink.json
